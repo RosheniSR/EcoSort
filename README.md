@@ -40,17 +40,28 @@ To enhance sustainability by automating the classification of e-waste using AI-b
 
 ## 💡 How to Use
 
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/EcoSort.git
-   cd EcoSort
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/EcoSort.git
+cd EcoSort
 
-2. Create a virtual environment & install requirements
-
+# 2. Create a virtual environment and activate it
 python -m venv venv
-source venv/bin/activate        # For Linux/macOS
-venv\Scripts\activate           # For Windows
+# On Windows:
+venv\Scripts\activate
+# On Mac/Linux:
+source venv/bin/activate
 
-3. Install required dependencies
+# 3. Install the required dependencies
 pip install -r requirements.txt
+
+# 4. Add your trained model (e.g., model.h5) to the root directory
+# Ensure the model path is correctly referenced in the code (app.py)
+
+# 5. Run the application
+python app.py
+```
+
+> 🌐 Visit `http://localhost:7860` in your browser to use the classifier.
+
 
