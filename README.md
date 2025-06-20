@@ -47,23 +47,10 @@ To enhance sustainability by automating the classification of e-waste using AI-b
 
 2. Create a virtual environment & install requirements
 
-bash
-Copy
-Edit
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate        # For Linux/macOS
+venv\Scripts\activate           # For Windows
+
+3. Install required dependencies
 pip install -r requirements.txt
-
-3.Add your model
-
-Place your trained .h5 model inside the project directory
-
-Make sure to update the model loading line in app.py
-
-4. Run the app
-
-bash
-Copy
-Edit
-python app.py
 
