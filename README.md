@@ -34,7 +34,7 @@ To enhance sustainability by automating the classification of e-waste using AI-b
 ## 📁 Dataset
 
 - The model is trained on a custom dataset consisting of labeled images from 10+ e-waste categories.
-- Source: [Kaggle / Custom Collected]
+- Source: [https://www.kaggle.com/datasets/akshat103/e-waste-image-dataset]
 
 ---
 
@@ -63,5 +63,34 @@ python app.py
 ```
 
 > 🌐 Visit `http://localhost:7860` in your browser to use the classifier.
+
+
+🖼️ Sample UI
+
+
+
+📦 Deployment Options
+
+✅ Gradio on Hugging Face Spaces
+✅ Streamlit Cloud
+✅ Docker (optional)
+✅ Google Colab (Jupyter support)
+
+📄 License
+
+This project is open-source under the MIT License.
+
+👨‍💻 Author
+
+Rosheni S.R
+Email: rosheniramesh@gmail.com
+GitHub: @RosheniSR
+
+🌟 Acknowledgements
+
+TensorFlow & Keras
+Gradio
+Kaggle for datasets
+OpenAI for support
 
 
