@@ -72,25 +72,37 @@ python app.py
 📦 Deployment Options
 
 ✅ Gradio on Hugging Face Spaces
+
 ✅ Streamlit Cloud
+
 ✅ Docker (optional)
+
 ✅ Google Colab (Jupyter support)
+
 
 📄 License
 
 This project is open-source under the MIT License.
 
+
 👨‍💻 Author
 
 Rosheni S.R
+
 Email: rosheniramesh@gmail.com
+
 GitHub: @RosheniSR
+
 
 🌟 Acknowledgements
 
 TensorFlow & Keras
+
 Gradio
+
 Kaggle for datasets
+
 OpenAI for support
+
 
 
