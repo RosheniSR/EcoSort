@@ -66,11 +66,7 @@ python app.py
 
 
 🖼️ Sample UI
-
-
-
-
-
+![image alt](https://github.com/RosheniSR/EcoSort/blob/8839923e64ff625f03fd38bde63e1987f740f1ea/Screenshot%202025-06-21%20160715.png)
 
 📄 License
 
